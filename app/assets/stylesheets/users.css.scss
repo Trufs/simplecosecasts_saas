@@ -1,3 +1,26 @@
-// Place all the styles related to the Users controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.job_title_icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #134E5E;
+    border-radius: 4px;
+    background-color: #71B280;
+    text-align: center;
+}
+
+.well.profile-block{
+        h3 {
+        margin-top: 0;
+    }
+}
+.well.profile-description {
+    background-color: #71B280;
+    border: none;
+
+}
+
+.well.profile-info{
+    background-color: #5cb85c;    
+    border-color: #71B280;
+
+}
